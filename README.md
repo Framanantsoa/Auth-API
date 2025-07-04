@@ -8,7 +8,7 @@
 ## Configurations
 * Renommer le **.env.example** en **.env**
 * Configurer les paramètres de connexion à PostgreSQL dans  **.env**
-* Entrer les script1.sql et script2.sql dans PostgreSQL
+* Entrer **script1.sql** et **script2.sql** dans PostgreSQL
 
 ## Installation des dépendances
 * Lancer *npm install*
